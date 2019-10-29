@@ -148,6 +148,10 @@ p {
   text-align: justify;
 }
 
+.text2 a {
+  color: #565955;
+}
+
 .email {
   display: block;
   margin-left: auto;
