@@ -1,0 +1,801 @@
+output_id	question_id	listNum	otherLang	itemName	cond	expt	prompt	answer
+1	001	0	yes	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	afd
+1	002	0	yes	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	adf
+1	003	0	yes	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	adf
+1	004	0	yes	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	adf
+1	005	0	yes	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	adf
+1	006	0	yes	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	adf
+1	007	0	yes	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	adf
+1	008	0	yes	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	adf
+1	009	0	yes	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	adf
+1	010	0	yes	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	adf
+1	011	0	yes	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	adf
+1	012	0	yes	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	adf
+1	013	0	yes	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	adf
+1	014	0	yes	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	adf
+1	015	0	yes	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	adf
+1	016	0	yes	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	adf
+1	017	0	yes	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	adf
+1	018	0	yes	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	adf
+1	019	0	yes	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	adf
+1	020	0	yes	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	adf
+2	001	1	yes	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	afd
+2	002	1	yes	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	adf
+2	003	1	yes	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	adf
+2	004	1	yes	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	adf
+2	005	1	yes	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	adf
+2	006	1	yes	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	adf
+2	007	1	yes	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	adf
+2	008	1	yes	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	adf
+2	009	1	yes	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	adf
+2	010	1	yes	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	adf
+2	011	1	yes	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	daf
+2	012	1	yes	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	adf
+2	013	1	yes	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	adf
+2	014	1	yes	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	adf
+2	015	1	yes	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	adf
+2	016	1	yes	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	adf
+2	017	1	yes	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	adf
+2	018	1	yes	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	adf
+2	019	1	yes	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	adf
+2	020	1	yes	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	adf
+3	001	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+3	002	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	6
+3	003	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+3	004	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	10
+3	005	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	17
+3	006	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+3	007	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	30
+3	008	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	6
+3	009	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	30
+3	010	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	100
+3	011	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	6
+3	012	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	20
+3	013	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	4
+3	014	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+3	015	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	10
+3	016	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	8
+3	017	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+3	018	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	30
+3	019	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	6
+3	020	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	35
+4	001	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	1
+4	002	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	5
+4	003	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	28
+4	004	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	3
+4	005	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	10
+4	006	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	10
+4	007	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	25
+4	008	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	2
+4	009	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	5
+4	010	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	5
+4	011	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	300
+4	012	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	20
+4	013	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	10
+4	014	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	5
+4	015	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+4	016	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	5
+4	017	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	15
+4	018	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	2
+4	019	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+4	020	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	3
+5	001	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+5	002	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	25
+5	003	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	6
+5	004	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	50
+5	005	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	1000
+5	006	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+5	007	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	3
+5	008	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	30
+5	009	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	20
+5	010	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	100
+5	011	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	100
+5	012	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	50
+5	013	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	5
+5	014	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	50
+5	015	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+5	016	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	15
+5	017	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	5
+5	018	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	25
+5	019	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+5	020	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	100
+6	001	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+6	002	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	2
+6	003	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+6	004	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	10
+6	005	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	10
+6	006	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	3
+6	007	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	20
+6	008	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	4
+6	009	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	20
+6	010	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+6	011	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	10
+6	012	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	20
+6	013	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	2
+6	014	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	200
+6	015	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	10
+6	016	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	5
+6	017	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+6	018	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	5
+6	019	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	100
+6	020	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	25
+7	001	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+7	002	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	20
+7	003	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	27
+7	004	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	20
+7	005	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	6
+7	006	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	15
+7	007	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	100
+7	008	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+7	009	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	10
+7	010	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	250
+7	011	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	5
+7	012	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	20
+7	013	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	5
+7	014	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	15
+7	015	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	15
+7	016	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	30
+7	017	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+7	018	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	20
+7	019	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+7	020	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	6
+8	001	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+8	002	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	20
+8	003	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	100
+8	004	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	40
+8	005	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	5
+8	006	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	0
+8	007	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	two
+8	008	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	0
+8	009	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	120
+8	010	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	50
+8	011	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	0
+8	012	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	15
+8	013	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+8	014	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	14
+8	015	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+8	016	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	500
+8	017	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	5
+8	018	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	15
+8	019	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+8	020	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	25
+9	001	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+9	002	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	5
+9	003	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+9	004	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	30
+9	005	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	15
+9	006	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	300
+9	007	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	20
+9	008	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	3
+9	009	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	5
+9	010	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	10
+9	011	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	5
+9	012	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	6
+9	013	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	5
+9	014	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+9	015	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	30
+9	016	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	100
+9	017	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+9	018	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	7
+9	019	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	40
+9	020	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	8
+10	001	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	many
+10	002	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	two
+10	003	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	no
+10	004	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+10	005	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	few
+10	006	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	twelve
+10	007	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	playful
+10	008	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+10	009	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	many
+10	010	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	52
+10	011	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	0
+10	012	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+10	013	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+10	014	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+10	015	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+10	016	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+10	017	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+10	018	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+10	019	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+10	020	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+11	001	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	10
+11	002	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	32
+11	003	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	15
+11	004	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	12
+11	005	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+11	006	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	14
+11	007	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	8
+11	008	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	22
+11	009	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+11	010	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	11
+11	011	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	17
+11	012	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+11	013	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	28
+11	014	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	234
+11	015	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+11	016	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	15
+11	017	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	6
+11	018	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	23
+11	019	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+11	020	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	25
+12	001	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+12	002	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	10
+12	003	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	300
+12	004	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	60
+12	005	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+12	006	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	10
+12	007	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	40
+12	008	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+12	009	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	25
+12	010	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	30
+12	011	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+12	012	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	40
+12	013	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	90
+12	014	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	10
+12	015	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+12	016	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	8
+12	017	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	10
+12	018	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	200
+12	019	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	4
+12	020	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	50
+13	001	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	6
+13	002	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	20
+13	003	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	30
+13	004	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	10
+13	005	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	5
+13	006	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	10
+13	007	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+13	008	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	15
+13	009	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	8
+13	010	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	10
+13	011	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+13	012	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	25
+13	013	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	500
+13	014	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	10
+13	015	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+13	016	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	6
+13	017	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	5
+13	018	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+13	019	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	3
+13	020	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	4
+14	001	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	15
+14	002	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+14	003	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	10
+14	004	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+14	005	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	10
+14	006	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	150
+14	007	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	100
+14	008	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	20
+14	009	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	2
+14	010	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	20
+14	011	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	20
+14	012	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+14	013	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	35
+14	014	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	10
+14	015	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	15
+14	016	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+14	017	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	24
+14	018	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	10
+14	019	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	23
+14	020	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	15
+15	001	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	4
+15	002	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	7
+15	003	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	250
+15	004	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	8
+15	005	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	4
+15	006	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+15	007	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	25
+15	008	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	10
+15	009	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	200
+15	010	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	20
+15	011	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+15	012	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	30
+15	013	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+15	014	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	15
+15	015	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	20
+15	016	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	45
+15	017	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	5
+15	018	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+15	019	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	30
+15	020	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	25
+16	001	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	12
+16	002	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	30
+16	003	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	5
+16	004	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+16	005	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	7
+16	006	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+16	007	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	18
+16	008	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	1
+16	009	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	7
+16	010	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	0
+16	011	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	400
+16	012	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	20
+16	013	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	100
+16	014	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	10
+16	015	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	15
+16	016	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	2
+16	017	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+16	018	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	0
+16	019	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	4
+16	020	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	0
+17	001	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	20
+17	002	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	20
+17	003	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	5
+17	004	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+17	005	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	7
+17	006	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	30
+17	007	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+17	008	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	10
+17	009	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	15
+17	010	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+17	011	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	10
+17	012	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	25
+17	013	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	30
+17	014	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	12
+17	015	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	2
+17	016	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+17	017	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	6
+17	018	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	25
+17	019	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	10
+17	020	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	15
+18	001	0	yes	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+18	002	0	yes	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	5
+18	003	0	yes	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	4
+18	004	0	yes	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	10
+18	005	0	yes	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	150
+18	006	0	yes	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	24
+18	007	0	yes	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	12
+18	008	0	yes	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	30
+18	009	0	yes	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	7
+18	010	0	yes	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	200
+18	011	0	yes	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	30
+18	012	0	yes	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	12
+18	013	0	yes	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+18	014	0	yes	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	10
+18	015	0	yes	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+18	016	0	yes	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	28
+18	017	0	yes	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	15
+18	018	0	yes	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	25
+18	019	0	yes	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+18	020	0	yes	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	10
+19	001	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+19	002	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	20
+19	003	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	4
+19	004	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+19	005	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	7
+19	006	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	2
+19	007	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	4
+19	008	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	3
+19	009	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	10
+19	010	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	3
+19	011	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	200
+19	012	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	9
+19	013	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	56
+19	014	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	4
+19	015	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+19	016	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	5
+19	017	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+19	018	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	31
+19	019	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+19	020	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	5
+20	001	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	two
+20	002	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	some
+20	003	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	yet
+20	004	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	two
+20	005	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	many
+20	006	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	twelve
+20	007	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	20
+20	008	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	5
+20	009	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	5
+20	010	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	12
+20	011	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	20
+20	012	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	5
+20	013	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	5
+20	014	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+20	015	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	2
+20	016	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	35
+20	017	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+20	018	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	10
+20	019	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+20	020	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	6
+21	001	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+21	002	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	12
+21	003	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	27
+21	004	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	30
+21	005	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	10
+21	006	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+21	007	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	30
+21	008	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+21	009	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	20
+21	010	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	10
+21	011	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	200
+21	012	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	25
+21	013	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	10
+21	014	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	30
+21	015	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+21	016	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	8
+21	017	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	20
+21	018	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	12
+21	019	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+21	020	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	8
+22	001	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+22	002	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	20
+22	003	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+22	004	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	10
+22	005	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	500
+22	006	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+22	007	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	20
+22	008	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	30
+22	009	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	5
+22	010	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	200
+22	011	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	100
+22	012	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	30
+22	013	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	5
+22	014	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	10
+22	015	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+22	016	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	25
+22	017	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	30
+22	018	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	10
+22	019	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+22	020	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	10
+23	001	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+23	002	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	10
+23	003	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+23	004	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	20
+23	005	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	10
+23	006	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+23	007	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	25
+23	008	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+23	009	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	20
+23	010	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+23	011	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	5
+23	012	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	15
+23	013	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	5
+23	014	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	100
+23	015	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	15
+23	016	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	7
+23	017	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	3
+23	018	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	15
+23	019	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	200
+23	020	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	20
+24	001	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+24	002	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	20
+24	003	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+24	004	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	25
+24	005	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+24	006	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	30
+24	007	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	500
+24	008	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+24	009	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	20
+24	010	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	100
+24	011	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	30
+24	012	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	10
+24	013	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	15
+24	014	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	10
+24	015	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	0
+24	016	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	20
+24	017	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	3
+24	018	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	10
+24	019	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+24	020	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	20
+25	001	1	yes	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+25	002	1	yes	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	100
+25	003	1	yes	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+25	004	1	yes	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	30
+25	005	1	yes	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	5
+25	006	1	yes	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+25	007	1	yes	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	28
+25	008	1	yes	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+25	009	1	yes	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	25
+25	010	1	yes	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+25	011	1	yes	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	30
+25	012	1	yes	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	4
+25	013	1	yes	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	30
+25	014	1	yes	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	500
+25	015	1	yes	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	45
+25	016	1	yes	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	25
+25	017	1	yes	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	5
+25	018	1	yes	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	30
+25	019	1	yes	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	250
+25	020	1	yes	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	50
+26	001	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+26	002	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	30
+26	003	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	20
+26	004	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	20
+26	005	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	4
+26	006	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	20
+26	007	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+26	008	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	20
+26	009	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	200
+26	010	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	6
+26	011	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	12
+26	012	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	10
+26	013	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+26	014	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	25
+26	015	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+26	016	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	20
+26	017	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	1
+26	018	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	5
+26	019	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	4
+26	020	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	10
+27	001	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+27	002	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	10
+27	003	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+27	004	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	22
+27	005	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	15
+27	006	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	12
+27	007	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	11
+27	008	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	3
+27	009	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	10
+27	010	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	7
+27	011	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+27	012	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	5
+27	013	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	7
+27	014	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	25
+27	015	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	10
+27	016	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	25
+27	017	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+27	018	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	12
+27	019	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	10
+27	020	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	10
+28	001	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	15
+28	002	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+28	003	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	5
+28	004	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+28	005	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	25
+28	006	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+28	007	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	28
+28	008	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+28	009	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	10
+28	010	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+28	011	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	30
+28	012	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	23
+28	013	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	30
+28	014	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	300
+28	015	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	3
+28	016	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	15
+28	017	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	200
+28	018	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	40
+28	019	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	45
+28	020	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	6
+29	001	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	100
+29	002	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	15
+29	003	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	35
+29	004	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	3
+29	005	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+29	006	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	6
+29	007	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	12
+29	008	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	20
+29	009	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+29	010	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	10
+29	011	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	6
+29	012	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+29	013	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	22
+29	014	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	100
+29	015	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+29	016	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	13
+29	017	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+29	018	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	5
+29	019	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+29	020	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	30
+30	001	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+30	002	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	10
+30	003	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	2
+30	004	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	100
+30	005	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+30	006	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	5
+30	007	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	55
+30	008	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+30	009	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	25
+30	010	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	14
+30	011	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+30	012	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	101
+30	013	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	20
+30	014	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	10
+30	015	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+30	016	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	20
+30	017	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	5
+30	018	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	300
+30	019	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+30	020	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	3
+31	001	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	6
+31	002	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	20
+31	003	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	20
+31	004	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	15
+31	005	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+31	006	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	7
+31	007	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+31	008	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	20
+31	009	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	200
+31	010	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	12
+31	011	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+31	012	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	25
+31	013	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	200
+31	014	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	10
+31	015	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+31	016	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	12
+31	017	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	30
+31	018	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+31	019	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	12
+31	020	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	8
+32	001	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	3
+32	002	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+32	003	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	50
+32	004	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+32	005	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	6
+32	006	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	200
+32	007	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	10
+32	008	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	8
+32	009	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	2
+32	010	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	5
+32	011	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	4
+32	012	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	5
+32	013	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	4
+32	014	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	10
+32	015	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	5
+32	016	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+32	017	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	30
+32	018	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	5
+32	019	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+32	020	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	5
+33	001	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	3
+33	002	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	7
+33	003	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	500
+33	004	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	2
+33	005	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	20
+33	006	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+33	007	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	15
+33	008	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	20
+33	009	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	100
+33	010	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	5
+33	011	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+33	012	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	20
+33	013	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+33	014	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	100
+33	015	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	27
+33	016	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	15
+33	017	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	8
+33	018	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+33	019	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	30
+33	020	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	26
+34	001	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	7
+34	002	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+34	003	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	30
+34	004	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	12
+34	005	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	10
+34	006	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+34	007	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	21
+34	008	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+34	009	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	20
+34	010	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	40
+34	011	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	10
+34	012	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	40
+34	013	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	100
+34	014	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	40
+34	015	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	10
+34	016	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	15
+34	017	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+34	018	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	15
+34	019	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	4
+34	020	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	50
+35	001	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	15
+35	002	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	2
+35	003	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	5
+35	004	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	1
+35	005	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	6
+35	006	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	20
+35	007	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+35	008	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	20
+35	009	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	0
+35	010	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+35	011	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	2
+35	012	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+35	013	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	24
+35	014	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	4
+35	015	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	100
+35	016	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+35	017	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	50
+35	018	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	120
+35	019	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	350
+35	020	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	12
+36	001	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+36	002	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	30
+36	003	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	10
+36	004	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	3
+36	005	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	5
+36	006	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	2
+36	007	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	6
+36	008	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	8
+36	009	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	30
+36	010	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	4
+36	011	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	400
+36	012	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	15
+36	013	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	100
+36	014	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	30
+36	015	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+36	016	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	12
+36	017	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+36	018	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	25
+36	019	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+36	020	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	2
+37	001	0	yes	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+37	002	0	yes	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	16
+37	003	0	yes	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+37	004	0	yes	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	4
+37	005	0	yes	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	3
+37	006	0	yes	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	8
+37	007	0	yes	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	276
+37	008	0	yes	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+37	009	0	yes	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	26
+37	010	0	yes	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	300
+37	011	0	yes	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	5
+37	012	0	yes	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	15
+37	013	0	yes	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	3
+37	014	0	yes	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	25
+37	015	0	yes	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	50
+37	016	0	yes	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	5
+37	017	0	yes	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	1
+37	018	0	yes	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	14
+37	019	0	yes	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+37	020	0	yes	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	20
+38	001	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	two
+38	002	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	12
+38	003	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	two
+38	004	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	ten
+38	005	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	twenty
+38	006	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	twelve
+38	007	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	twenty
+38	008	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	ten
+38	009	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	fifteen
+38	010	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	one hundred
+38	011	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	thirty
+38	012	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	thirty
+38	013	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	four
+38	014	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	twenty four
+38	015	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	fifty
+38	016	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	thirty five
+38	017	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	twenty six
+38	018	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	twenty five
+38	019	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	four
+38	020	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	fifteen
+39	001	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	5
+39	002	1	no	coffee	announce	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank XXX cups of coffee last week.	20
+39	003	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+39	004	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair XXX times last month.	4
+39	005	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has XXX T-shirts.	50
+39	006	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+39	007	1	no	class	announce	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are XXX children in Erin's class.	25
+39	008	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	12
+39	009	1	no	calls	think	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made XXX phone calls last week.	20
+39	010	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has XXX friends.	15
+39	011	1	no	facebook	think	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has XXX Facebook friends.	250
+39	012	1	no	cook	think	inf	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked XXX meals at home last month.	10
+39	013	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	70
+39	014	1	no	restaurants	announce	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to XXX restaurants last year.	24
+39	015	1	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+39	016	1	no	shoes	think	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob thinks that Melanie owns XXX pairs of shoes.	16
+39	017	1	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	15
+39	018	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate XXX burgers last month.	10
+39	019	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+39	020	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw XXX movies last year.	40
+40	001	0	no	correct3	FILLER	FILLER	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men'. It's true that there are only XXX hours in a day.	24
+40	002	0	no	shoes	announce	inf	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns XXX pairs of shoes.	10
+40	003	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least XXX weeks.	2
+40	004	0	no	calls	announce	inf	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made XXX phone calls last week.	20
+40	005	0	no	facebook	announce	inf	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has XXX Facebook friends.	200
+40	006	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are XXX letters in the modern alphabet.	26
+40	007	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair XXX times last month.	3
+40	008	0	no	speculation4	FILLER	FILLER	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was XXX minutes late.	15
+40	009	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate XXX burgers last month.	10
+40	010	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most XXX years old.	100
+40	011	0	no	restaurants	think	inf	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to XXX restaurants last year.	200
+40	012	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has XXX T-shirts.	12
+40	013	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy XXX more of their albums.	2
+40	014	0	no	coffee	think	inf	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank XXX cups of coffee last week.	10
+40	015	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The XXX days of Christmas'	12
+40	016	0	no	class	think	inf	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are XXX children in Erin's class.	15
+40	017	0	no	cook	announce	inf	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked XXX meals at home last month.	0
+40	018	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has XXX friends.	2
+40	019	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own XXX feet.	2
+40	020	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie thinks that Nick saw XXX movies last year.	25
