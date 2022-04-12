@@ -25,7 +25,7 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #c9c9c9;
+  background-color: #f0f0f0;
   color: white;
 }
 
@@ -90,7 +90,7 @@ h2 {
 }
 
 h3 {
-  color: #565955;
+  color: #d4cd04;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 20px;
@@ -109,7 +109,7 @@ h4 {
 }
 
 h5 {
-  color: #565955;
+  color: #d4cd04;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 20px;
@@ -161,7 +161,7 @@ p {
 }
 
 .text2 a {
-  color: #565955;
+  color: #d4cd04;
 }
 
 .email {
