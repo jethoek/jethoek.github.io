@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #969696;
+  background-color: #d4cd04;
   overflow: hidden;
 }
 
@@ -19,13 +19,13 @@
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #f0f0f0;
-  color: black;
+  background-color: #e6de05;
+  color: white;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #f0f0f0;
+  background-color: #e6de05;
   color: white;
 }
 
@@ -90,7 +90,7 @@ h2 {
 }
 
 h3 {
-  color: #d4cd04;
+  color: #969696;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 20px;
@@ -109,7 +109,7 @@ h4 {
 }
 
 h5 {
-  color: #d4cd04;
+  color: #565955;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 20px;
@@ -161,7 +161,7 @@ p {
 }
 
 .text2 a {
-  color: #d4cd04;
+  color: #969696;
 }
 
 .email {
@@ -197,7 +197,7 @@ a {
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
-  background: #969696;
+  background: #d4cd04;
   color: white;
 }
 
